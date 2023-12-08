@@ -379,6 +379,7 @@ h3{
     .ctn h1{
         font-size: 24px;
     }
+ .ctn{padding: 0;}
 }
 
 /* Media query is Close*/
